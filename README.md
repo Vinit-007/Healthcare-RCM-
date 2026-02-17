@@ -2,22 +2,6 @@
 
 ## End-to-End Azure Data Engineering Solution for Healthcare Revenue Cycle Management
 
-
-##  Table of Contents
-- [Project Overview](#project-overview)
-- [Problem Statement](#problem-statement)
-- [Architecture](#architecture)
-- [Technology Stack](#technology-stack)
-- [Medallion Architecture Implementation](#medallion-architecture-implementation)
-- [Data Pipeline Workflow](#data-pipeline-workflow)
-- [Key Features](#key-features)
-- [Data Models](#data-models)
-- [Security & Governance](#security--governance)
-- [Getting Started](#getting-started)
-- [Repository Structure](#repository-structure)
-- [Contributing](#contributing)
-- [License](#license)
-
 ---
 
 ##  Project Overview
